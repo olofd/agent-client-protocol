@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.0.0-alpha.18](https://github.com/agentclientprotocol/agent-client-protocol/compare/schema-v2.0.0-alpha.17...schema-v2.0.0-alpha.18) - 2026-11-18
+
+### Other
+
+- *(unstable-v2)* send a new session's non-idle state after the response ([#2871](https://github.com/agentclientprotocol/agent-client-protocol/pull/2871))
+
 ## [2.0.0-alpha.17](https://github.com/agentclientprotocol/agent-client-protocol/compare/schema-v2.0.0-alpha.16...schema-v2.0.0-alpha.17) - 2026-11-18
 
 ### Added

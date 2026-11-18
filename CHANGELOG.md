@@ -2,6 +2,12 @@
 
 ## [Unreleased]
 
+## [1.19.1](https://github.com/agentclientprotocol/agent-client-protocol/compare/v1.19.0...v1.19.1) - 2026-11-18
+
+### Other
+
+- *(unstable-v2)* send a new session's non-idle state after the response ([#2871](https://github.com/agentclientprotocol/agent-client-protocol/pull/2871))
+
 ## [1.19.0](https://github.com/agentclientprotocol/agent-client-protocol/compare/v1.18.0...v1.19.0) - 2026-11-18
 
 ### Added
